@@ -20,7 +20,11 @@
   },
   "homepage": "https://github.com/Reza1290/trakteer-hardhat#readme",
   "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
     "hardhat": "^2.23.0",
     "mocha": "^11.2.2"
+  },
+  "dependencies": {
+    "chai": "^5.2.0"
   }
 }
